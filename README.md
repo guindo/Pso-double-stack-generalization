@@ -25,9 +25,7 @@ This is a new framework combining feature selection and Regression modeling for 
 
       Inputs
       ------
-      m : numpy.ndarray
-          Binary mask that can be obtained from BinaryPSO, will
-          be used to mask features.
+      
       alpha: float (default is 0.5)
           Constant weight for trading-off classifier performance
           and number of features
