@@ -70,5 +70,8 @@ This is a new framework combining feature selection and Regression modeling for 
           pip  install pswarm
           pip install sklearn
            
-
+Cite this paper {Guindo ML, Kabir MH, Chen R, Liu F. Particle Swarm Optimization and Multiple Stacked
+Generalizations to Detect Nitrogen and Organic-Matter in Organic-Fertilizer Using Vis-NIR.
+Sensors (Basel). 2021 Jul 17;21(14):4882. doi: 10.3390/s21144882. PMID: 34300620; PMCID:
+PMC8309747}
 
